@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/46750824?v=4" alt="Harsh Mori" width="100" height="100">
   <h1>🌟 Hello, World! I'm Harsh Mori 🌟</h1>
   <p>Passionate | Creative | Innovator</p>
-  <p>Welcome to my GitHub universe, where pixels come alive!</p>
+  <p>⚔️ Living By The Way Of Code ⚔️</p>
 </div>
 
 ## 🚀 About Me
